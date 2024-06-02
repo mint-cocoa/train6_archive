@@ -1,6 +1,6 @@
 # ML-test
 
-## resaults
+## results
 ![alt text](result/results.png)
 
 
